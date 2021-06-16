@@ -1,4 +1,4 @@
-# firebase_app
+# linux_app
 
 A new Flutter project.
 
